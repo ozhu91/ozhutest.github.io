@@ -1,16 +1,16 @@
 {
 "test": {
-"backend": "atp-backend.live.exante.eu",
+"backend": "atp-backend.stage.exante.eu",
 "web_backend": "wp.test.exante.eu",
 "auth": "authdb-test.exante.eu"
 },
 "load": {
-"backend": "atp-backend.live.exante.eu",
+"backend": "atp-backend.prod.exante.eu",
 "web_backend": "wp.load.exante.eu",
 "auth": "authdb-load.exante.eu"
 },
 "stage": {
-"backend": "atp-backend.live.exante.eu",
+"backend": "atp-backend-demo.exante.eu",
 "web_backend": "wp.stage.exante.eu",
 "auth": "authdb-stage.exante.eu"
 }
