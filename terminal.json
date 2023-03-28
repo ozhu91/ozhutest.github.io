@@ -1,6 +1,6 @@
 {
 "stage": {
-"backend": "atp-backend.stage.exante.eu",
+"backend": "atp-backend.prod.exante.eu",
 "web_backend": "wp.stage.exante.eu",
 "auth": "authdb-stage.exante.eu"
 }
