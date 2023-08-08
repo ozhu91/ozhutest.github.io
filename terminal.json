@@ -5,7 +5,7 @@
     "auth": "authdb-stage.exante.eu"
     },
   "live": {
-    "backend": "main.stage.atp.exante.eu",
+    "backend": "main.atp.stage.exante.eu",
     "web_backend": "wp.stage.exante.eu",
     "auth": "authdb-stage.exante.eu"
     },
