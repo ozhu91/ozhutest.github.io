@@ -1,16 +1,7 @@
 {
-  "demo": {
-    "backend": "main.atp.prod.exante.eu",
-    "web_backend": "wp.stage.exante.eu",
-    "auth": "authdb-stage.exante.eu"
-    },
   "live": {
     "backend": "main.atp.stage.exante.eu",
     "web_backend": "wp.stage.exante.eu",
     "auth": "authdb-stage.exante.eu"
-    },
-  "stage": {
-    "backend": "main.atp.prod.exante.eu",
-    "web_backend": "wp.stage.exante.eu",
-    "auth": "authdb-stage.exante.eu"}
+    }
 }
